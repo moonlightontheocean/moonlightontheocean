@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moonlightontheocean
-- 👀 I’m interested in python and girl
+- 👀 I’m interested in python and book
 - 🌱 I’m currently learning standard software design
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 telegram : @iam_emp
